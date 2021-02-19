@@ -1,7 +1,8 @@
 # tensorflow-src-reading
 This repo will try to record notes/references when reading tensorflow src code.
 ## marked tutorials
-Chinese Blog, suite for tensorflow src reading 101 https://www.cnblogs.com/deep-learning-stacks/tag/TensorFlow/
+Chinese Blog, suite for tensorflow src reading 101 https://www.cnblogs.com/deep-learning-stacks/tag/TensorFlow/  
+[Tensorflow教程：GPU调用如何实现](https://cloud.tencent.com/developer/article/1007472)
 ## how tensorflow works?
 ### Graph
 ### Device
