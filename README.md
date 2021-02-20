@@ -7,5 +7,6 @@ Chinese Blog, suite for tensorflow src reading 101 https://www.cnblogs.com/deep-
 ### Graph
 ### Device
 [TensorFlow中的设备管理——Device的创建与注册机制](https://www.cnblogs.com/deep-learning-stacks/p/9313700.html)
+[对Tensorflow中Device实例的生成和管理详解](https://www.jb51.net/article/179512.htm)
 ### StreamExecutor
 https://github.com/henline/streamexecutordoc 
