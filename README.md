@@ -6,7 +6,7 @@ Chinese Blog, suite for tensorflow src reading 101 https://www.cnblogs.com/deep-
 [TensorFlow中的并行执行引擎——StreamExecutor框架](https://www.cnblogs.com/deep-learning-stacks/p/9386188.html)  
 [Debugging your tensorflow code right (without so many painful mistakes)](https://towardsdatascience.com/debugging-your-tensorflow-code-right-without-so-many-painful-mistakes-b48bd9145d5c)  
 [TensorFlow源代码调试与修改](https://edu.csdn.net/course/detail/28880)
-[TensorFlow系统架构介绍](https://zhuanlan.zhihu.com/p/252357203)
+[TensorFlow系统架构介绍](https://zhuanlan.zhihu.com/p/252357203)  
 [TF代码研读](https://blog.csdn.net/weixin_42754237/category_10786518.html)
 ## how tensorflow works?
 ### Graph
